@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "493536722734",
+    "firebase_url": "https://aplikasi-8b867-default-rtdb.firebaseio.com",
+    "project_id": "aplikasi-8b867",
+    "storage_bucket": "aplikasi-8b867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493536722734:android:2ff655019e82aedc1284bf",
+        "android_client_info": {
+          "package_name": "com.example.rosi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493536722734-86llrtj0faev89l517nvmie6ohtmud2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSMjnlWKVsPpSW0bu0xJe6gy-e2mka204"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493536722734-86llrtj0faev89l517nvmie6ohtmud2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493536722734:android:827f10750642d3241284bf",
+        "android_client_info": {
+          "package_name": "com.rosi.memodiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493536722734-86llrtj0faev89l517nvmie6ohtmud2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSMjnlWKVsPpSW0bu0xJe6gy-e2mka204"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493536722734-86llrtj0faev89l517nvmie6ohtmud2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
